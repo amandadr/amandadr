@@ -34,7 +34,9 @@
 </p>
 
 <h3>This week, I spent my time on:</h3>
+
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <p align="center">
@@ -50,4 +52,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday 31 May at 19:25 GMT-3<br /><h3 align="center">Cheers! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6eDZheTlkaG9ueGJ5eGZ5cTRjY2g1ZDRpZXgyODJoYTZ2dWEyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.webp" height="60" style="margin-bottom: -25px; margin-left: 10px;"/>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday 31 May at 19:27 GMT-3<br /><h3 align="center">Cheers! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6eDZheTlkaG9ueGJ5eGZ5cTRjY2g1ZDRpZXgyODJoYTZ2dWEyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.webp" height="60" style="margin-bottom: -25px; margin-left: 10px;"/>
