@@ -1,4 +1,17 @@
-## Hi there 👋
+for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+
+📊 **This week I spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript    13 hrs 14 mins  ██████████████████▒░░░░░░   72.83 %
+JavaScript    2 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+Python        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+CSS           1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Other         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+```
+
+<!--END_SECTION:waka-->
 
 <!--
 **amandadr/amandadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
