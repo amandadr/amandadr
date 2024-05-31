@@ -1,0 +1,30 @@
+{
+  "name": "amandadr",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for my GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandadr/amandadr.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Amanda Roy",
+  "bugs": {
+    "url": "https://github.com/amandadr/amandadr/issues"
+  },
+  "homepage": "https://github.com/amandadr/amandadr#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
