@@ -7,7 +7,7 @@ on:
   schedule:
     # README updates every new hour
     # Use '0 */1 * * *' or '@hourly'
-    - cron: '0 */1 * * *'
+    - cron: '0 */3 * * *'
 
 jobs:
   build:
