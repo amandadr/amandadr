@@ -1,0 +1,6 @@
+{
+  "github-actions.workflows.pinned.workflows": [
+    ".github/workflows/update-stats.yml",
+    ".github/workflows/main.yaml"
+  ]
+}
