@@ -1,4 +1,4 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+for freelance work? do reach, [email](mailto:amandadroy@gmail.com) :)
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
