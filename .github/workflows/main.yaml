@@ -33,8 +33,9 @@ jobs:
         run: node index.js
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-      - name: Commit and push new README.md
-        run: |-
-          git diff
-          git commit -a -m "Hourly content update" || exit 0
-          git push
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Triggered by GitHub Action"
+          git push origin main
