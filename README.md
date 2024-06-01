@@ -38,11 +38,17 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 31 May 2024 - To: 31 May 2024
+From: 31 May 2024 - To: 01 June 2024
 
-Total Time: 0 secs
+Total Time: 3 hrs 31 mins
 
-No activity tracked
+Mustache     1 hr 36 mins    >>>>>>>>>>>--------------   45.68 %
+YAML         1 hr 21 mins    >>>>>>>>>>---------------   38.59 %
+Markdown     12 mins         >------------------------   05.81 %
+Bash         8 mins          >------------------------   04.19 %
+JavaScript   6 mins          >------------------------   03.25 %
+JSON         4 mins          >------------------------   02.26 %
+Git Config   0 secs          -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
