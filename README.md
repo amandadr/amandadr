@@ -37,6 +37,23 @@
 
 <!--START_SECTION:waka-->
 
+```javascript
+From: 31 May 2024 - To: 13 June 2024
+
+Total Time: 58 hrs 20 mins
+
+TypeScript    35 hrs 46 mins  >>>>>>>>>>>>>>>----------   61.33 %
+Markdown      7 hrs 56 mins   >>>----------------------   13.60 %
+Python        2 hrs 44 mins   >------------------------   04.71 %
+JavaScript    2 hrs 38 mins   >------------------------   04.54 %
+JSON          2 hrs 7 mins    >------------------------   03.65 %
+Mustache      1 hr 37 mins    >------------------------   02.77 %
+YAML          1 hr 21 mins    >------------------------   02.34 %
+Other         1 hr 14 mins    >------------------------   02.12 %
+CSS           1 hr 7 mins     -------------------------   01.94 %
+TSConfig      48 mins         -------------------------   01.39 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
