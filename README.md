@@ -37,23 +37,6 @@
 
 <!--START_SECTION:waka-->
 
-```javascript
-From: 31 May 2024 - To: 06 July 2024
-
-Total Time: 93 hrs 26 mins
-
-TypeScript     49 hrs 1 min    >>>>>>>>>>>>>------------   52.46 %
-Other          20 hrs 9 mins   >>>>>--------------------   21.56 %
-Markdown       9 hrs 50 mins   >>>----------------------   10.53 %
-Python         3 hrs 2 mins    >------------------------   03.25 %
-JavaScript     2 hrs 41 mins   >------------------------   02.88 %
-JSON           2 hrs 11 mins   >------------------------   02.35 %
-Mustache       1 hr 37 mins    -------------------------   01.73 %
-YAML           1 hr 21 mins    -------------------------   01.46 %
-CSS            1 hr 9 mins     -------------------------   01.24 %
-TSConfig       49 mins         -------------------------   00.88 %
-```
-
 <!--END_SECTION:waka-->
 
 <p align="center">
@@ -69,4 +52,4 @@ TSConfig       49 mins         -------------------------   00.88 %
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 6 July, 22:26 GMT-3<br /><h3 align="center">Cheers! &nbsp;&nbsp;&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6eDZheTlkaG9ueGJ5eGZ5cTRjY2g1ZDRpZXgyODJoYTZ2dWEyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.webp" height="60" style="margin-bottom: -25px; margin-left: 10px;"/>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 7 July, 00:20 GMT-3<br /><h3 align="center">Cheers! &nbsp;&nbsp;&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6eDZheTlkaG9ueGJ5eGZ5cTRjY2g1ZDRpZXgyODJoYTZ2dWEyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.webp" height="60" style="margin-bottom: -25px; margin-left: 10px;"/>
