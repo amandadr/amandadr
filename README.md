@@ -37,23 +37,6 @@
 
 <!--START_SECTION:waka-->
 
-```javascript
-From: 31 May 2024 - To: 29 September 2024
-
-Total Time: 147 hrs 49 mins
-
-Other          63 hrs 6 mins   >>>>>>>>>>>--------------   42.69 %
-TypeScript     49 hrs 5 mins   >>>>>>>>-----------------   33.21 %
-Markdown       17 hrs 31 mins  >>>----------------------   11.86 %
-Python         4 hrs 45 mins   >------------------------   03.21 %
-JavaScript     2 hrs 58 mins   >------------------------   02.02 %
-JSON           2 hrs 12 mins   -------------------------   01.49 %
-Mustache       1 hr 37 mins    -------------------------   01.09 %
-CSV            1 hr 24 mins    -------------------------   00.95 %
-YAML           1 hr 21 mins    -------------------------   00.92 %
-CSS            1 hr 9 mins     -------------------------   00.78 %
-```
-
 <!--END_SECTION:waka-->
 
 <p align="center">
@@ -61,7 +44,7 @@ CSS            1 hr 9 mins     -------------------------   00.78 %
 </p>
 
 <h3>Here's how my day is lookin':<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw1MzY4ajFvcnd3cmZzaWVlNHR2MWZ6ODJ4YmlndnRkOG1jZHk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zKIHxjF2i0GjreKTqi/giphy.webp" height="100" style="margin-bottom: 30px;"/></h3>
-<p>Currently, the weather here in Dartmouth is: <b>12°C, <i>clear sky</i></b></br/></br>Today, the sun rises at <b>07:10</b> and sets at <b>18:58</b>.</p>
+<p>Currently, the weather here in Dartmouth is: <b>11°C, <i>clear sky</i></b></br/></br>Today, the sun rises at <b>07:11</b> and sets at <b>18:56</b>.</p>
 
 <h3>Where to find me <img src="https://media.tenor.com/BS-Tne5BS0IAAAAi/stardew-valley.gif" height="30" style="margin-bottom: 10px;"/></h3>
 
@@ -69,4 +52,4 @@ CSS            1 hr 9 mins     -------------------------   00.78 %
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 29 September, 22:42 GMT-3<br /><h3 align="center">Cheers! &nbsp;&nbsp;&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6eDZheTlkaG9ueGJ5eGZ5cTRjY2g1ZDRpZXgyODJoYTZ2dWEyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.webp" height="60" style="margin-bottom: -25px; margin-left: 10px;"/>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 30 September, 00:29 GMT-3<br /><h3 align="center">Cheers! &nbsp;&nbsp;&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6eDZheTlkaG9ueGJ5eGZ5cTRjY2g1ZDRpZXgyODJoYTZ2dWEyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.webp" height="60" style="margin-bottom: -25px; margin-left: 10px;"/>
