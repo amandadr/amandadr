@@ -38,19 +38,19 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 31 May 2024 - To: 23 December 2024
+From: 31 May 2024 - To: 24 December 2024
 
-Total Time: 184 hrs 50 mins
+Total Time: 185 hrs 2 mins
 
-Other          77 hrs 28 mins  >>>>>>>>>>---------------   41.92 %
-TypeScript     49 hrs 6 mins   >>>>>>>------------------   26.57 %
-Markdown       20 hrs 24 mins  >>>----------------------   11.04 %
-Python         13 hrs          >>-----------------------   07.04 %
-CSV            4 hrs 6 mins    >------------------------   02.23 %
+Other          77 hrs 41 mins  >>>>>>>>>>---------------   41.98 %
+TypeScript     49 hrs 6 mins   >>>>>>>------------------   26.54 %
+Markdown       20 hrs 24 mins  >>>----------------------   11.03 %
+Python         13 hrs          >>-----------------------   07.03 %
+CSV            4 hrs 6 mins    >------------------------   02.22 %
 Text           4 hrs 1 min     >------------------------   02.18 %
 HTML           3 hrs 46 mins   >------------------------   02.04 %
 JavaScript     2 hrs 58 mins   -------------------------   01.61 %
-JSON           2 hrs 51 mins   -------------------------   01.55 %
+JSON           2 hrs 51 mins   -------------------------   01.54 %
 Mustache       1 hr 37 mins    -------------------------   00.87 %
 ```
 
