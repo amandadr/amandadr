@@ -37,23 +37,6 @@
 
 <!--START_SECTION:waka-->
 
-```javascript
-From: 31 May 2024 - To: 16 January 2025
-
-Total Time: 189 hrs 8 mins
-
-Other          81 hrs 35 mins  >>>>>>>>>>>--------------   43.14 %
-TypeScript     49 hrs 6 mins   >>>>>>-------------------   25.97 %
-Markdown       20 hrs 24 mins  >>>----------------------   10.79 %
-Python         13 hrs          >>-----------------------   06.88 %
-CSV            4 hrs 6 mins    >------------------------   02.17 %
-Text           4 hrs 1 min     >------------------------   02.13 %
-HTML           3 hrs 50 mins   >------------------------   02.03 %
-JavaScript     2 hrs 58 mins   -------------------------   01.58 %
-JSON           2 hrs 58 mins   -------------------------   01.57 %
-Mustache       1 hr 37 mins    -------------------------   00.86 %
-```
-
 <!--END_SECTION:waka-->
 
 <p align="center">
@@ -69,4 +52,4 @@ Mustache       1 hr 37 mins    -------------------------   00.86 %
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 16 January, 11:20 GMT-4<br /><h3 align="center">Cheers! &nbsp;&nbsp;&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6eDZheTlkaG9ueGJ5eGZ5cTRjY2g1ZDRpZXgyODJoYTZ2dWEyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.webp" height="60" style="margin-bottom: -25px; margin-left: 10px;"/>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 16 January, 14:26 GMT-4<br /><h3 align="center">Cheers! &nbsp;&nbsp;&nbsp;<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6eDZheTlkaG9ueGJ5eGZ5cTRjY2g1ZDRpZXgyODJoYTZ2dWEyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.webp" height="60" style="margin-bottom: -25px; margin-left: 10px;"/>
