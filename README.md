@@ -38,20 +38,20 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 31 May 2024 - To: 22 March 2025
+From: 31 May 2024 - To: 23 March 2025
 
-Total Time: 232 hrs 51 mins
+Total Time: 234 hrs 4 mins
 
-Other          99 hrs 50 mins  >>>>>>>>>>>--------------   42.88 %
-TypeScript     49 hrs 35 mins  >>>>>--------------------   21.30 %
-Markdown       27 hrs 42 mins  >>>----------------------   11.90 %
-Python         22 hrs          >>-----------------------   09.45 %
-Text           5 hrs 28 mins   >------------------------   02.35 %
-JSON           5 hrs 19 mins   >------------------------   02.29 %
-HTML           5 hrs 12 mins   >------------------------   02.24 %
-CSV            5 hrs 8 mins    >------------------------   02.21 %
-JavaScript     3 hrs           -------------------------   01.30 %
-Bash           2 hrs 11 mins   -------------------------   00.94 %
+Other          101 hrs 3 mins  >>>>>>>>>>>--------------   43.18 %
+TypeScript     49 hrs 35 mins  >>>>>--------------------   21.19 %
+Markdown       27 hrs 42 mins  >>>----------------------   11.84 %
+Python         22 hrs          >>-----------------------   09.40 %
+Text           5 hrs 28 mins   >------------------------   02.34 %
+JSON           5 hrs 19 mins   >------------------------   02.28 %
+HTML           5 hrs 12 mins   >------------------------   02.23 %
+CSV            5 hrs 8 mins    >------------------------   02.20 %
+JavaScript     3 hrs           -------------------------   01.29 %
+Bash           2 hrs 11 mins   -------------------------   00.93 %
 ```
 
 <!--END_SECTION:waka-->
