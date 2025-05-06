@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 31 May 2024 - To: 05 May 2025
+From: 31 May 2024 - To: 06 May 2025
 
-Total Time: 256 hrs 36 mins
+Total Time: 256 hrs 47 mins
 
-Other          108 hrs 29 mins >>>>>>>>>>>--------------   42.28 %
-TypeScript     49 hrs 35 mins  >>>>>--------------------   19.33 %
-Markdown       34 hrs 17 mins  >>>----------------------   13.36 %
+Other          108 hrs 40 mins >>>>>>>>>>>--------------   42.32 %
+TypeScript     49 hrs 35 mins  >>>>>--------------------   19.31 %
+Markdown       34 hrs 17 mins  >>>----------------------   13.35 %
 Python         22 hrs 23 mins  >>-----------------------   08.72 %
 JSON           6 hrs 58 mins   >------------------------   02.72 %
 CSV            5 hrs 41 mins   >------------------------   02.22 %
