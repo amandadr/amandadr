@@ -38,12 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 31 May 2024 - To: 01 June 2025
+From: 31 May 2024 - To: 02 June 2025
 
-Total Time: 274 hrs 23 mins
+Total Time: 274 hrs 25 mins
 
-Other          112 hrs 18 mins >>>>>>>>>>---------------   40.93 %
-TypeScript     49 hrs 36 mins  >>>>>--------------------   18.08 %
+Other          112 hrs 20 mins >>>>>>>>>>---------------   40.94 %
+TypeScript     49 hrs 36 mins  >>>>>--------------------   18.07 %
 Markdown       41 hrs 4 mins   >>>>---------------------   14.97 %
 Python         23 hrs 11 mins  >>-----------------------   08.45 %
 CSV            10 hrs 29 mins  >------------------------   03.82 %
@@ -51,7 +51,7 @@ JSON           7 hrs 57 mins   >------------------------   02.90 %
 Text           6 hrs           >------------------------   02.19 %
 HTML           5 hrs 20 mins   -------------------------   01.95 %
 JavaScript     4 hrs 3 mins    -------------------------   01.48 %
-Bash           3 hrs 52 mins   -------------------------   01.42 %
+Bash           3 hrs 52 mins   -------------------------   01.41 %
 ```
 
 <!--END_SECTION:waka-->
