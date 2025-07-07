@@ -1,63 +1,63 @@
-name: Autobuild README
+# name: Autobuild README
 
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-  schedule:
-    # README updates every new hour
-    # Use '0 */1 * * *' or '@hourly'
-    - cron: '0 */3 * * *'
+# on:
+#   workflow_dispatch:
+#   push:
+#     branches:
+#       - main
+#   schedule:
+#     # README updates every new hour
+#     # Use '0 */1 * * *' or '@hourly'
+#     - cron: '0 */3 * * *'
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout current repository to main branch
-        uses: actions/checkout@v2.3.4
-      - name: Setup Node.js 13.x
-        uses: actions/setup-node@v2.3.0
-        with:
-          node-version: '13.x'
-      - name: Cache dependencies and build outputs
-        uses: actions/cache@v2.1.6
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-        env:
-          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git pull
-          git commit -am "Triggered by GitHub Action"
-          git push origin main
+#     steps:
+#       - name: Checkout current repository to main branch
+#         uses: actions/checkout@v2.3.4
+#       - name: Setup Node.js 13.x
+#         uses: actions/setup-node@v2.3.0
+#         with:
+#           node-version: '13.x'
+#       - name: Cache dependencies and build outputs
+#         uses: actions/cache@v2.1.6
+#         with:
+#           path: node_modules
+#           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+#       - name: Install dependencies
+#         run: npm install
+#       - name: Generate README file
+#         run: node index.js
+#         env:
+#           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+#       - name: Commit and Push Changes
+#         run: |
+#           git config --local user.email "action@github.com"
+#           git config --local user.name "GitHub Action"
+#           git pull
+#           git commit -am "Triggered by GitHub Action"
+#           git push origin main
 
-  update-readme:
-    name: Update this repo's README
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout current repository to main branch
-        uses: actions/checkout@v2.3.4
-      - name: Update Waka Readme
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: javascript # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: true # optional
+#   update-readme:
+#     name: Update this repo's README
+#     needs: build
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout current repository to main branch
+#         uses: actions/checkout@v2.3.4
+#       - name: Update Waka Readme
+#         uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+#           SHOW_TITLE: true # optional
+#           SECTION_NAME: waka # optional
+#           BLOCKS: -> # optional
+#           CODE_LANG: javascript # optional
+#           TIME_RANGE: all_time # optional
+#           LANG_COUNT: 10 # optional
+#           SHOW_TIME: true # optional
+#           SHOW_TOTAL: true # optional
+#           SHOW_MASKED_TIME: true # optional
