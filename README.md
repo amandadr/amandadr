@@ -70,10 +70,15 @@ If you live in PEI, [let's meet](mailto:manny@mannyroy.com)!
 Otherwise, catch up with me virtually:
 
 <p>
-<a href="https://mannyroy.com"><img alt="Website" src="https://img.shields.io/badge/Website-mannyroy.com-7c6b2d?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/amandadroy"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:manny@mannyroy.com"><img alt="Email" src="https://img.shields.io/badge/Email-manny@mannyroy.com-b53d3d?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/amandadroy"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+<p>
+  <a href="https://www.mannyroy.com"><img alt="Website" src="https://img.shields.io/badge/Website-mannyroy.com-7c6b2d?style=for-the-badge"/></a>
+</p>
+<p>
+  <a href="mailto:manny@mannyroy.com"><img alt="Email" src="https://img.shields.io/badge/Email-manny@mannyroy.com-b53d3d?style=for-the-badge"/></a>
+</p>
+
 
 ---
 
