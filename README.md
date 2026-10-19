@@ -6,7 +6,7 @@
 
 I work at the intersection of **search, data, content architecture, and the web**.
 
-My background spans agency SEO, full-stack development, consulting, and machine-learning evaluation, so I’m comfortable moving between marketers, developers, data-minded teams, and the systems connecting them.
+My background spans agency SEO, full-stack development, consulting, and machine-learning evaluation, so I’m comfortable working with marketers, developers, data-minded teams, and the systems connecting them.
 
 <a href="https://www.mannyroy.com">
   <img alt="Manny Roy Consulting" src="https://img.shields.io/badge/Manny_Roy_Consulting-FAF6F0?style=for-the-badge&logoColor=2A261A" />
@@ -26,7 +26,7 @@ My background spans agency SEO, full-stack development, consulting, and machine-
 
 ## What I Do
 
-I like taking recurring problems apart, figuring out **why they happen**, and building systems that make the next iteration easier to run, measure, and maintain.
+I like taking recurring problems apart, figuring out **why they happen**, and building systems that make processes easier to run, measure, and maintain.
 
 My work commonly includes:
 
@@ -37,7 +37,7 @@ My work commonly includes:
 - 🌐 **Web systems** — Ghost, WordPress/WooCommerce, Next.js, TypeScript, CMS architecture, DNS/CDN, accessibility
 - ✍️ **Technical content** — B2B SaaS, web and AI topics, documentation, glossaries, content architecture, editorial systems
 
-> **The stack varies; the thinking doesn’t.**
+> **The stack varies; holistic thinking doesn’t.**
 
 ---
 
@@ -59,7 +59,37 @@ It currently handles:
 - PDF attachment extraction and enrichment
 - CLI workflows and automated testing
 
-This is one of my favourite examples of turning a messy, repetitive research problem into something structured, inspectable, and reusable.
+While it has a few edges to sharpen, this is one of my favourite examples of turning a messy, repetitive research problem into something structured, inspectable, and reusable.
+
+---
+
+### 🚚 [WooCommerce → Trexity Automation](https://github.com/amandadr/woo-trexity-plugin)
+
+**PHP · WordPress · WooCommerce · REST APIs · Action Scheduler · production automation**
+
+A modular WordPress plugin built to automate local-delivery fulfillment between WooCommerce and Trexity.
+
+After an eligible WooCommerce order is paid, the plugin validates the order against delivery, cart, payment, and duplicate-submission rules before creating the shipment through Trexity's API.
+
+It handles considerably more than a simple API call:
+
+- maps WooCommerce shipping methods to Trexity service types
+- validates local-delivery eligibility and cart rules
+- prevents duplicate shipment creation
+- schedules pickup windows in the merchant's timezone
+- handles alcohol-specific delivery requirements
+- supports both classic WooCommerce checkout and WooCommerce Blocks
+- stores shipment IDs, tracking information, errors, and skip reasons on the order
+- provides manual and queued submission workflows through Action Scheduler
+- includes authenticated API handling, retries, and transport fallbacks
+- declares WooCommerce High-Performance Order Storage compatibility
+- exposes filters and actions so behaviour can be adapted without modifying plugin internals
+
+The repository also includes documentation for the architecture, configuration, checkout logic, eligibility rules, and extension hooks.
+
+This is a good example of the kind of development I enjoy most: **a real operational problem, several systems that need to agree with each other, and enough edge cases that the automation has to earn trust before it can save anyone time.**
+
+➡️ [Explore the plugin](https://github.com/amandadr/woo-trexity-plugin)
 
 ---
 
@@ -80,7 +110,7 @@ Beyond styling, it includes:
 - living technical documentation
 - public documentation at [docs.mannyroy.com](https://docs.mannyroy.com)
 
-I use the site as a practical test bed for **SEO, GEO/AEO, internal linking, content architecture, publishing systems, and technical experimentation**.
+I use the site as a practical test bed for **SEO, GEO/AEO, internal linking, content architecture, publishing systems, and technical experimentation** while marketing my own services.
 
 ---
 
@@ -88,7 +118,7 @@ I use the site as a practical test bed for **SEO, GEO/AEO, internal linking, con
 
 **Next.js · TypeScript · Sanity · Tailwind · architecture documentation**
 
-A developing platform for an arts organization, built around maintainable content architecture and eventual membership functionality.
+A developing platform for an arts organization I'm co-founding, built around maintainable content architecture and eventual membership functionality.
 
 The repository includes:
 
@@ -100,15 +130,15 @@ The repository includes:
 - Relume-based component foundations
 - an `AGENTS.md` workflow for coding agents and Cursor
 
-This project is a good example of how I like to work with AI-assisted development: **the agent can move quickly, but the architecture and rules stay explicit**.
+This project is a good example of how I like to work with AI-assisted development: **the agent can move quickly, but the architecture and rules stay explicit and human-approved**.
 
 ---
 
-### 🗺️ [Hyrule Merchant](https://github.com/amandadr/hyrule-merchant)
+### 🗺️ [The Good Detour - Travel Merchant](https://github.com/amandadr/hyrule-merchant)
 
 **Astro · API ingestion · Zod · data validation · testing**
 
-A noncommercial portfolio prototype built around a snapshot of the Hyrule Compendium API.
+A noncommercial portfolio prototype built around a snapshot of the Hyrule Compendium API. Rather than build a compendium, I wanted to exercise my creativity and lean into a static ecommerce prototype where travellers of Hyrule can prep themselves for the journey ahead.
 
 What makes this one interesting to me is the data layer:
 
@@ -118,7 +148,7 @@ What makes this one interesting to me is the data layer:
 - dated snapshots preserve provenance
 - the site can build against the last known-good dataset without depending on a live API
 
-It’s playful, but the architecture reflects something I care about professionally: **knowing where information came from, what was transformed, and what was invented**.
+It’s a playful take on an API system, but the UX and architecture reflect something I care about professionally: **knowing where information came from, what was transformed, what was invented, and how it's percieved**. While I can't share proprietary tooling, this portfolio piece can highlight these skills and help you take on a White Maned Lynel.
 
 ---
 
