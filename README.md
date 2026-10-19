@@ -37,7 +37,7 @@ My work commonly includes:
 - 🌐 **Web systems** — Ghost, WordPress/WooCommerce, Next.js, TypeScript, CMS architecture, DNS/CDN, accessibility
 - ✍️ **Technical content** — B2B SaaS, web and AI topics, documentation, glossaries, content architecture, editorial systems
 
-> **The stack varies; holistic thinking doesn’t.**
+> **The stack varies; systems thinking doesn’t.**
 
 ---
 
@@ -47,7 +47,7 @@ My work commonly includes:
 
 **Python · APIs · SQLite · LLM scoring · CLI · document processing**
 
-A pipeline for finding and ranking Canadian public-sector RFP and tender opportunities.
+A Python based, CLI-controlled pipeline for finding and ranking Canadian public-sector RFP and tender opportunities.
 
 It currently handles:
 
@@ -148,26 +148,7 @@ What makes this one interesting to me is the data layer:
 - dated snapshots preserve provenance
 - the site can build against the last known-good dataset without depending on a live API
 
-It’s a playful take on an API system, but the UX and architecture reflect something I care about professionally: **knowing where information came from, what was transformed, what was invented, and how it's percieved**. While I can't share proprietary tooling, this portfolio piece can highlight these skills and help you take on a White Maned Lynel.
-
----
-
-### ⚔️ [Hyrule Compendium](https://github.com/amandadr/hyrule-compendium)
-
-**JavaScript · APIs · AWS Lambda · fuzzy search · Docker**
-
-An older project that still earns a spot because it shows where a lot of my web instincts started.
-
-Features include:
-
-- API-driven content
-- category browsing and detailed records
-- typo-tolerant fuzzy search
-- a Lambda-hosted search helper
-- Dockerized deployment
-- responsive UI
-
-➡️ [View the live project](https://hyrule.amandadroy.com)
+It’s a playful take on an API system, but the UX and architecture reflect something I care about professionally: **knowing where information came from, what was transformed, what was invented, and how it's perceived**. While much of my professional tooling can't be shared publicly, this project gives me somewhere to exercise the same instincts — and might also help you survive a White-Maned Lynel.
 
 ---
 
