@@ -87,7 +87,7 @@ It handles considerably more than a simple API call:
 
 The repository also includes documentation for the architecture, configuration, checkout logic, eligibility rules, and extension hooks.
 
-This is a good example of the kind of development I enjoy most: **a real operational problem, several systems that need to agree with each other, and enough edge cases that the automation has to earn trust before it can save anyone time.**
+This is a good example of a real operational problem, several systems that need to agree with each other, and enough edge cases that the automation has to earn trust before it can save anyone time.
 
 ➡️ [Explore the plugin](https://github.com/amandadr/woo-trexity-plugin)
 
